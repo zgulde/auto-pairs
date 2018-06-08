@@ -1,3 +1,5 @@
+This fork disables all insert mode <M-> keybindings.
+
 Auto Pairs
 ==========
 Insert or delete brackets, parens, quotes in pair.
